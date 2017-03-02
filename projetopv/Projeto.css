@@ -1,4 +1,25 @@
-.container{
-	background-color: #F1F1FF;
+#container{
+	background-color: ;
+	width: 1132px;
+	height: 200px;
+	margin-right: auto;
+	margin-left: auto;
+	opacity: 1;
 }
+body{
+	background-image: url("img/pontoevirgula.png");
+}
+div.well{
+	background-image: url("img/pontoevirgula.png");
 
+}
+div.jumbotrom{
+	
+}
+#ctn{
+	margin-right: auto;
+	margin-left: auto;
+	height: 200px;
+	margin-top: -20px;
+
+}
